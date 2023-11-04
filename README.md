@@ -1,2 +1,2 @@
 # steam-api
-Github pages for Steam api
+My personal Github page for the key Steam api
